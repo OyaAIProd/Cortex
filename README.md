@@ -10,6 +10,7 @@
 [![MCP Server](https://img.shields.io/badge/MCP-compatible-green.svg)](https://modelcontextprotocol.io)
 [![Tests](https://img.shields.io/badge/tests-2000+_passing-brightgreen.svg)](#development)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/cdeust/Cortex/pulls)
+[![SafeSkill 76/100](https://img.shields.io/badge/SafeSkill-76%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/1337xcode-cortex)
 
 **Claude Code forgets everything between sessions. Cortex fixes that.**
 
